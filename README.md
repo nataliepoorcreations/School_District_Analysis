@@ -18,6 +18,7 @@ The purpose of this project was to help Maria analyze the data of the high schoo
 * We replaced the math and readin scores while keeping all other data associated with the student group intact. 
 * Math and reading scores were replaced with "NaN", for the student records. The "NaN" is a replacement for where there is no number value. 
 * Output shows 
+
 ![Results](https://user-images.githubusercontent.com/106033535/178174545-ce925f93-e7b6-4bca-a35e-2d38a31e70cc.png)
 
 # District Summary:
@@ -29,34 +30,45 @@ The purpose of this project was to help Maria analyze the data of the high schoo
 
 # School Summary:
 * This output confirms the metrics for Thomas High School while calculating Per School Budget and Per Studen Budget:
+
 ![School Summary](https://user-images.githubusercontent.com/106033535/178174908-229d3016-cb02-4c6f-b119-56b6bca0629e.png)
+
 * Average Math Score and Average Reading Score for Thomas High School dreastically changed after the data change. 
 
 * Replacing 9th grade math and reading scores in Thomas High School affected their performance drastically. 
 Ninth Grade Math Scores
+
 <img width="302" alt="9th Grade Math Scores" src="https://user-images.githubusercontent.com/106033535/178175107-db86caa1-b1d9-4222-b669-5b8438293e20.png">
+
 Ninth Grade Reading Scores
+
 <img width="304" alt="9th Grade Reading Scores" src="https://user-images.githubusercontent.com/106033535/178175153-f9b4e736-6575-4575-b086-42b4697f9ccb.png">
 
 Replacing the ninth grade scores affect math and reading scores by grade looking at average percentage. 
 
 * Top 5 Schools
+
 ![Top 5 Schools](https://user-images.githubusercontent.com/106033535/178175300-731b1783-fb5b-470e-bc11-d5e43242bd8a.png)
 
 * Bottom 5 Schools
+
 ![Bottom 5 Schools](https://user-images.githubusercontent.com/106033535/178175358-66fb4b90-62d1-4128-9f0f-da1e66f3568d.png)
 
 * Scores by School Spending
+
 ![Spending Ranges](https://user-images.githubusercontent.com/106033535/178175450-9d777ed0-7a24-489f-8394-fe5a151c9421.png)
 ![School Spending Summary](https://user-images.githubusercontent.com/106033535/178175460-2c21bef2-dd22-4bc7-9677-6e9d1dca71a5.png)
 
 * Scores by School Size
+
 <img width="786" alt="Scores by school size" src="https://user-images.githubusercontent.com/106033535/178175502-b8ec901b-46c3-4903-b579-56cd6c15f272.png">
 
 * Scores by School Type
+
 ![Scores by school type](https://user-images.githubusercontent.com/106033535/178175525-420657b0-4cb4-4a6a-899d-3e68829e80e8.png)
 
 
 # Summary: 
+
 * Using NaN for replaceing the ninth graders scores caused the overall passing percentages and average scores to drop. Average math scores, reading scores, and overall passing percentage decreased. 
 * Thomas High school lost it's placement as a top five school in district. 
